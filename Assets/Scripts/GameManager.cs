@@ -43,7 +43,7 @@ public class GameManager : MonoBehaviour
     private List<TapText> _tapTextPool = new List<TapText>();
     private float _collectSecond;
 
-    public float SaveDelay = 5f;
+    public float SaveDelay = 15f;
     private float _saveDelayCounter;
 
 

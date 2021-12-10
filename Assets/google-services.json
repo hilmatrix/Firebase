@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145223229056",
+    "project_id": "incremental-game-2ff6f",
+    "storage_bucket": "incremental-game-2ff6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145223229056:android:7dd37f6213e2cb46f79065",
+        "android_client_info": {
+          "package_name": "com.hilmatrix.incremental_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145223229056-qr8k1ou7pflvgp0p0hugtbve0f0lhu5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNrFMoHwXP6NQnJR7feIVuCBwa2xoLXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145223229056-qr8k1ou7pflvgp0p0hugtbve0f0lhu5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
